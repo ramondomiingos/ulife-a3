@@ -2,6 +2,8 @@
 <img src="persona1.png" width="100px;" alt="Jose Bonifácil "/>
 
 ## Idade: 44 anos
+## Sexo: Masculino
+## Mora com esposa e filhos
 ## Ocupação: Zelador de escola Municipal
 ## Minibiografia
 José, casado ha 25 anos, tem 2 filhos, um com 10 e outro com 17 anos. Moram na zona norte de São Paulo.

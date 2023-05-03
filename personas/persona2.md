@@ -2,6 +2,8 @@
 <img src="persona2.png" width="100px;" alt="Jose Bonifácil "/>
 
 ## Idade:  22 anos
+## Sexo: Feminino
+## Mora com os pais e 1 irmão
 ## Ocupação: Estudante de Jornalista,
 ## Minibiografia
 Maria, Solteira, mora na zona sul  de são Paulo, utiliza o tranposrte punlico somente para ir a faculdade, a maioria de suas outras locomoções ela realiza no carro dos pais. Recarrega o cartão 1 vez ao mês.
