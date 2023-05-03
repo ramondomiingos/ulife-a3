@@ -1,9 +1,9 @@
 # Projeto Dual Autopass - Entrega 1
 
-
 ![Capa do Projeto](https://www.designi.com.br/images/preview/10829081.jpg)
 
 # Sobre o Projeto
+
 Projeto desenvolvido para a ATIVIDADE 3 da disciplina Usabilidade, Desenvolvimento Web, Mobile e Jogos.
 
 <h4 align="center"> 
@@ -12,50 +12,78 @@ Projeto desenvolvido para a ATIVIDADE 3 da disciplina Usabilidade, Desenvolvimen
 
 # Índice/Sumário
 
-* [Sobre](#sobre-o-projeto)
-* [Sumário](#índice/sumário)
-* [Requisitos Funcionais](#requisitos-funcionais)
-* [Tecnologias Usadas](#tecnologias-usadas)
-* [Contribuição](#contribuição)
-* [Autores](#autores)
-* [Licença](#licença)
-* [Agradecimentos](#agradecimentos)
+- [Sobre](#sobre-o-projeto)
+- [Sumário](#índice/sumário)
+- [Requisitos Funcionais](#requisitos-funcionais)
+- [Tecnologias Usadas](#tecnologias-usadas)
+- [Contribuição](#contribuição)
+- [Autores](#autores)
+- [Licença](#licença)
+- [Agradecimentos](#agradecimentos)
 
 # Entregaveis
 
-|ID |           Categoria|        Entregável|    Descrição |       Pontos|
-| -------------| -------------| -------------| -------------| ------------- |
-|1 |Requisitos |Fluxo de Usuário | Fluxograma ou diagrama de atividades para descrever os fluxos de tarefas do usuário |3|
-|2 |Requisitos |Personas |Descrição das personas |4|
-|3 |Requisitos |Cenários |Descrição dos cenários |4|
-|4 |Protótipos |Protótipo lo-fi |Wireframe estático|5|
-|5 |Protótipos |Protótipo hi-fi |Protótipo Interativo| 5|
-|6 |Avaliação |Relatório| Relatório analítico das heurísticas de Nielsen.| 4|
-|7 |Implementação |Aplicação Web |Implementação das telas do protótipo desenvolvido |5|
-|8 |Apresentação |Link  Vídeo |apresentando sua solução de redesign| 5|
-|TOTAL PROJETO A3 || || 	35|
+| ID               | Categoria     | Entregável       | Descrição                                                                           | Pontos |
+| ---------------- | ------------- | ---------------- | ----------------------------------------------------------------------------------- | ------ |
+| 1                | Requisitos    | Fluxo de Usuário | Fluxograma ou diagrama de atividades para descrever os fluxos de tarefas do usuário | 3      |
+| 2                | Requisitos    | Personas         | Descrição das personas                                                              | 4      |
+| 3                | Requisitos    | Cenários         | Descrição dos cenários                                                              | 4      |
+| 4                | Protótipos    | Protótipo lo-fi  | Wireframe estático                                                                  | 5      |
+| 5                | Protótipos    | Protótipo hi-fi  | Protótipo Interativo                                                                | 5      |
+| 6                | Avaliação     | Relatório        | Relatório analítico das heurísticas de Nielsen.                                     | 4      |
+| 7                | Implementação | Aplicação Web    | Implementação das telas do protótipo desenvolvido                                   | 5      |
+| 8                | Apresentação  | Link Vídeo       | apresentando sua solução de redesign                                                | 5      |
+| TOTAL PROJETO A3 |               |                  |                                                                                     | 35     |
 
 # Fluxo de Usuário
 
 <img src="autopass-fluxograma.png" alt="Fluxograma" style="height: 1100px;"/>
 
-# Descrição das personas 
+# Descrição das personas
 
-# Descrição dos cenários 
+As imagens para as personas foram geradas aleatoriamente por inteligencia artificial e não existem,através do site: [https://this-person-does-not-exist.com/en](https://this-person-does-not-exist.com/)
+
+ <table>
+    <tr>
+      <td align="center">
+	  	<a href="/personas/persona1.md">
+	  		<img src="personas/persona1.png" width="100px;" alt="Jose Bonifácil "/>
+			<br />
+	  			<sub>
+				<b>Jose Bonifácil </b>
+				</sub>
+		</a>
+		<br/>
+	 </td>
+      <td align="center">
+	  	<a href="/personas/persona2.md">
+	  		<img src="personas/persona2.png" width="100px;" alt="Maria Rita "/>
+			<br />
+			<sub>
+				<b>Maria Rita</b>
+			</sub>
+		</a>
+		<br />
+	</td>
+	</tr> 
+</table>
+
+# Descrição dos cenários
 
 # Wireframe estático
 
-# Protótipo Interativo 
+# Protótipo Interativo
 
 # Relatório analítico das heurísticas de Nielsen.
 
 # Implementação das telas do protótipo desenvolvido
 
+# Vídeo apresentando sua solução de redesign
 
-# Vídeo apresentando sua solução de redesign 
-Assista a apresentação clicando [aqui](http://teste.com) . 
+Assista a apresentação clicando [aqui](http://teste.com) .
 
-# Requisitos Funcionais 
+# Requisitos Funcionais
+
 - [x] **Cadastrar Usuário**
 - [x] **Fazer Login**
 - [ ] Matricular em Curso
@@ -73,7 +101,7 @@ Assista a apresentação clicando [aqui](http://teste.com) .
 
 # Contribuição
 
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
+Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações _pull_ (_Pull Request_) para nós.
 
 # Autores
 
@@ -81,7 +109,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Licença
 
-Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
 # Agradecimentos
 
