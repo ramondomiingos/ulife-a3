@@ -14,8 +14,15 @@ Projeto desenvolvido para a ATIVIDADE 3 da disciplina Usabilidade, Desenvolvimen
 
 - [Sobre](#sobre-o-projeto)
 - [Sumário](#índice/sumário)
-- [Requisitos Funcionais](#requisitos-funcionais)
-- [Tecnologias Usadas](#tecnologias-usadas)
+- [Entregaveis](#Entregaveis)
+- [Fluxogramas](#fluxo-de-usuário)
+- [Descrição das personas](#descrição-das-personas)
+- [Descrição dos cenários](#descrição-dos-cenários)
+- [Wireframe estático](#wireframe-estático)
+- [Protótipo Interativo](#protótipo-interativo)
+- [](#relatório-analítico-das-heurísticas-de-nielsen)
+- [Implementação](#implementação-das-telas-do-protótipo-desenvolvido)
+- [Video Apresentação](#vídeo-apresentando-sua-solução-de-redesign)
 - [Contribuição](#contribuição)
 - [Autores](#autores)
 - [Licença](#licença)
@@ -153,22 +160,8 @@ As imagens para as personas foram geradas aleatoriamente por inteligencia artifi
 
 Assista a apresentação clicando [aqui](http://teste.com) .
 
-# Requisitos Funcionais
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
 
-# Tecnologias Usadas
-
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 # Contribuição
 
