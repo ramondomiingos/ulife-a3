@@ -220,9 +220,12 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 	  		<img src="https://avatars.githubusercontent.com/u/12705978?v=4" width="100px;" />
 			<br />
 	  			<sub>
-				<b>Ramon Domingos </b> <br/>RA:12823141995
+				<b>Ramon Domingos </b> 
 				</sub>
 		</a>
+			<sub>
+				<br/>RA:12823141995
+			</sub>
 		<br/>
 	 </td>
       <td align="center">
@@ -230,9 +233,12 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 	  		<img src="SUA FOTO.PNG" width="100px;"/>
 			<br />
 			<sub>
-			<b>Nome e Sobrenome </b> <br/>RA: XXX
+			<b>Nome e Sobrenome </b>
 			</sub>
 		</a>
+		<sub>
+			<br/>RA:xxx
+		</sub>
 		<br />
 	</td>
 	<td align="center">
@@ -240,9 +246,12 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 	  		<img src="SUA FOTO.PNG" width="100px;"/>
 			<br />
 			<sub>
-			<b>Nome e Sobrenome </b> <br/>RA: XXX
+			<b>Nome e Sobrenome </b> 
 			</sub>
 		</a>
+		<sub>
+			<br/>RA:xxx
+		</sub>
 		<br />
 	</td>
 	<td align="center">
@@ -250,9 +259,12 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 	  		<img src="SUA FOTO.PNG" width="100px;"/>
 			<br />
 			<sub>
-			<b>Nome e Sobrenome </b> <br/>RA: XXX
+			<b>Nome e Sobrenome </b>
 			</sub>
 		</a>
+		<sub>
+			<br/>RA:xxx
+		</sub>
 		<br />
 	</td>
 	<td align="center">
@@ -260,9 +272,12 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 	  		<img src="SUA FOTO.PNG" width="100px;"/>
 			<br />
 			<sub>
-			<b>Nome e Sobrenome </b> <br/>RA: XXX
+			<b>Nome e Sobrenome </b>
 			</sub>
 		</a>
+		<sub>
+			<br/>RA:xxx
+		</sub>
 		<br />
 	</td>
 	</tr> 
