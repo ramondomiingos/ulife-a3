@@ -1,6 +1,8 @@
 # Nome: Maria Rita
 <img src="persona2.png" width="100px;" alt="Jose Bonifácil "/>
 
+>Eu não faço da minha vida um problema. Eu procuro sempre enaltecer as coisas boas da minha vida.(Val Marchiori)
+
 ## Idade:  22 anos
 ## Sexo: Feminino
 ## Mora com os pais e 1 irmão
