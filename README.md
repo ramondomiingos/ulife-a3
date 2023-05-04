@@ -159,6 +159,38 @@ As imagens para as personas foram geradas aleatoriamente por inteligencia artifi
 
 # Descrição dos cenários
 
+Na pasta `cenarios` existem os cenários completos, segue os resumos:
+## Cenário 1
+
+
+**Ator:** [Persona 1 - Jose Bonifácil](personas/persona1.md)<br/>
+**Contexto:** Voltando do trabalho na sexta feira.<br/>
+**Evento:** Entrando na estação do metro para voltar para casa.<br/>
+**Objeto:** Chegar em casa e recarregar o cartão.<br/>
+**Plano:** Durante o caminho, antes da catraca, recarregar o cartão.<br/>
+**Ação:** Viu a máquina com fila, esperou na fila para carregar o cartão.<br/>
+**Avaliação:** Demorou na fila e carregou o cartão.<br/>
+## Cenário 2
+
+
+**Ator:** [Persona 2 - Maria Rita](personas/persona2.md)<br/>
+**Contexto:** Indo para a faculdade.<br/>
+**Evento:** Entrando na estação do metroir para a faculdade.<br/>
+**Objeto:** Chegar na faculdade para assistir aula.<br/>
+**Plano:** Carregar o cartão, para poder usar o  metrô<br/>
+**Ação:** Viu a máquina com fila, esperou na fila para carregar o cartão.<br/>
+**Avaliação:** Demorou na fila e carregou o cartão.<br/>
+## Cenário 3
+
+
+**Ator:** [Persona 3 - Pedro Felipe](personas/persona3.md)<br/>
+**Contexto:** Indo para a blada na sexta.<br/>
+**Evento:** Carregou o cartão em casa pelo app<br/>
+**Objeto:** Chegar na balada.<br/>
+**Plano:** Carregar o cartão pelo app, para poder usar o  metrô<br/>
+**Ação:** verificou o saldo no app e fez a recarga com o cartão de débito.<br/>
+**Avaliação:** Muito prático recarregar pelo app.<br/>
+
 # Wireframe estático
 
 # Protótipo Interativo
