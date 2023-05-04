@@ -42,6 +42,10 @@ Projeto desenvolvido para a ATIVIDADE 3 da disciplina Usabilidade, Desenvolvimen
 | TOTAL PROJETO A3 |               |                  |                                                                                     | 35     |
 
 # Fluxo de Usuário
+
+Para facilitar a edição dos fluxogramas, e por total integração com o github, foi optado utilizaro [mermaid.](https://mermaid.js.org/). Ferramenta baseado em Javascript que renderiza fluxograma utilizando o Markdown. Segue os fluxogramas solicitados:
+
+
 1.Compra do Bilhete Digital QR Code
 ```mermaid
 flowchart TD
