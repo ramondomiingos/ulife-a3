@@ -23,7 +23,6 @@ Projeto desenvolvido para a ATIVIDADE 3 da disciplina Usabilidade, Desenvolvimen
 - [Relatório analítico das heurísticas de Nielsen](#relatório-analítico-das-heurísticas-de-nielsen)
 - [Implementação](#implementação-das-telas-do-protótipo-desenvolvido)
 - [Video Apresentação](#vídeo-apresentando-sua-solução-de-redesign)
-- [Contribuição](#contribuição)
 - [Autores](#autores)
 - [Licença](#licença)
 - [Agradecimentos](#agradecimentos)
@@ -204,11 +203,6 @@ Na pasta `cenarios` existem os cenários completos, segue os resumos:
 Assista a apresentação clicando [aqui](http://teste.com) .
 
 
-
-
-# Contribuição
-
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações _pull_ (_Pull Request_) para nós.
 
 # Autores
 
