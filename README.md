@@ -1,4 +1,4 @@
-# Projeto Dual Autopass - Entrega 1
+# Projeto Autopass 
 
 ![Capa do Projeto](https://www.designi.com.br/images/preview/10829081.jpg)
 
