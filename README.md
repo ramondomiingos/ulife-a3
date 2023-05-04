@@ -55,7 +55,7 @@ flowchart TD
 ```mermaid
 flowchart TD
     
-    A[Início] --> B[ Selecione o produto  - Bilhete único]
+    A[Início] --> B[ Selecione o produto  -  Insira o cartao TOP]
     B -->C[Selecione o tipo de recarga]
     C-->For{selecione a forma de pagamento}
     For-->|cartao|OQ[Selecione o que deseja comprar]
