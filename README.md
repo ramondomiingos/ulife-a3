@@ -36,8 +36,30 @@ Projeto desenvolvido para a ATIVIDADE 3 da disciplina Usabilidade, Desenvolvimen
 | TOTAL PROJETO A3 |               |                  |                                                                                     | 35     |
 
 # Fluxo de Usuário
+1.Compra do Bilhete Digital QR Code
+```
+flowchart TD
+    A[Início] --> B[ Selecione o produto]
+    B -->C[Selecione o que deseja comprar - QR code]
+    C --> D[Selecione a qunatiade - 1 Unidade]
+    D -->E[Insira o cartao]
+    E-->F[Digite a senha]
+    F-->G{Transacao aprovada?}
+    G-->|Não|E
+    G-->|Sim|H[Requisitando QR Code]
+    H-->I[Imprimindo QR Code]
+    I-->J[FIM]
+```
+2.Recarga do Cartão TOP
+```
 
-<img src="autopass-fluxograma.png" alt="Fluxograma" style="height: 1100px;"/>
+```
+3.Recarga do Bilhete Único
+```
+
+```
+
+
 
 # Descrição das personas
 
