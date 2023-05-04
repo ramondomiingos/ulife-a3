@@ -3,10 +3,10 @@
 
 >Eu não faço da minha vida um problema. Eu procuro sempre enaltecer as coisas boas da minha vida.(Val Marchiori)
 
-## Idade:  22 anos
-## Sexo: Feminino
-## Mora com os pais e 1 irmão
-## Ocupação: Estudante de Jornalismo
+### Idade:  22 anos
+### Sexo: Feminino
+### Mora com os pais e 1 irmão
+### Ocupação: Estudante de Jornalismo
 ### Local: São Paulo/SP
 ### Peronsagem : O Inocente
 

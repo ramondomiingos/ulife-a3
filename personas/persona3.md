@@ -4,10 +4,10 @@
 >Como assim largou o emprego? Largar é para bebida e cigarro!.(CHRIS ROCK
 )
 
-## Idade:  25 anos
-## Sexo: Masculino
-## Mora sozinho
-## Ocupação: Engenheiro de software
+### Idade:  25 anos
+### Sexo: Masculino
+### Mora sozinho
+### Ocupação: Engenheiro de software
 ### Local: São Paulo/SP
 ### Peronsagem : O explorador
 
