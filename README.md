@@ -20,7 +20,7 @@ Projeto desenvolvido para a ATIVIDADE 3 da disciplina Usabilidade, Desenvolvimen
 - [Descrição dos cenários](#descrição-dos-cenários)
 - [Wireframe estático](#wireframe-estático)
 - [Protótipo Interativo](#protótipo-interativo)
-- [](#relatório-analítico-das-heurísticas-de-nielsen)
+- [Relatório analítico das heurísticas de Nielsen](#relatório-analítico-das-heurísticas-de-nielsen)
 - [Implementação](#implementação-das-telas-do-protótipo-desenvolvido)
 - [Video Apresentação](#vídeo-apresentando-sua-solução-de-redesign)
 - [Contribuição](#contribuição)
@@ -152,7 +152,7 @@ As imagens para as personas foram geradas aleatoriamente por inteligencia artifi
 
 # Protótipo Interativo
 
-# Relatório analítico das heurísticas de Nielsen.
+# Relatório analítico das heurísticas de Nielsen
 
 # Implementação das telas do protótipo desenvolvido
 
