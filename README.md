@@ -212,7 +212,61 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+
+ <table>
+    <tr>
+      <td align="center">
+	  	<a href="https://www.linkedin.com/in/ramondomingos/">
+	  		<img src="https://avatars.githubusercontent.com/u/12705978?v=4" width="100px;" />
+			<br />
+	  			<sub>
+				<b>Ramon Domingos </b> <br/>RA:12823141995
+				</sub>
+		</a>
+		<br/>
+	 </td>
+      <td align="center">
+	  	<a href="O LINK QUE VC QUISER">
+	  		<img src="SUA FOTO.PNG" width="100px;"/>
+			<br />
+			<sub>
+			<b>Nome e Sobrenome </b> <br/>RA: XXX
+			</sub>
+		</a>
+		<br />
+	</td>
+	<td align="center">
+	  	<a href="O LINK QUE VC QUISER">
+	  		<img src="SUA FOTO.PNG" width="100px;"/>
+			<br />
+			<sub>
+			<b>Nome e Sobrenome </b> <br/>RA: XXX
+			</sub>
+		</a>
+		<br />
+	</td>
+	<td align="center">
+	  	<a href="O LINK QUE VC QUISER">
+	  		<img src="SUA FOTO.PNG" width="100px;"/>
+			<br />
+			<sub>
+			<b>Nome e Sobrenome </b> <br/>RA: XXX
+			</sub>
+		</a>
+		<br />
+	</td>
+	<td align="center">
+	  	<a href="O LINK QUE VC QUISER">
+	  		<img src="SUA FOTO.PNG" width="100px;"/>
+			<br />
+			<sub>
+			<b>Nome e Sobrenome </b> <br/>RA: XXX
+			</sub>
+		</a>
+		<br />
+	</td>
+	</tr> 
+</table>
 
 # Licença
 
