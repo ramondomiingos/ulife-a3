@@ -143,6 +143,17 @@ As imagens para as personas foram geradas aleatoriamente por inteligencia artifi
 		</a>
 		<br />
 	</td>
+	 </td>
+      <td align="center">
+	  	<a href="/personas/persona3.md">
+	  		<img src="personas/persona3.png" width="100px;" alt="Pedro Felipe "/>
+			<br />
+			<sub>
+				<b>Pedro Felipe</b>
+			</sub>
+		</a>
+		<br />
+	</td>
 	</tr> 
 </table>
 
