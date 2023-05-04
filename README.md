@@ -37,7 +37,7 @@ Projeto desenvolvido para a ATIVIDADE 3 da disciplina Usabilidade, Desenvolvimen
 
 # Fluxo de Usuário
 1.Compra do Bilhete Digital QR Code
-```
+```mermaid
 flowchart TD
     A[Início] --> B[ Selecione o produto]
     B -->C[Selecione o que deseja comprar - QR code]
@@ -49,7 +49,7 @@ flowchart TD
     G-->|Sim|H[Requisitando QR Code]
     H-->I[Imprimindo QR Code]
     I-->J[FIM]
-	
+
 ```
 2.Recarga do Cartão TOP
 ```
