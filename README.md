@@ -52,11 +52,35 @@ flowchart TD
 
 ```
 2.Recarga do Cartão TOP
-```
+```mermaid
+flowchart TD
+    
+    A[Início] --> B[ Selecione o produto  - Bilhete único]
+    B -->C[Selecione o tipo de recarga]
+    C-->For{selecione a forma de pagamento}
+    For-->|cartao|OQ[Selecione o que deseja comprar]
+    OQ --> D[Selecione a qunatiade - 1 Unidade]
+    D -->E[Insira o cartao]
+    E-->F[Digite a senha]
+    F-->G{Transacao aprovada?}
+    G-->|Não|E
+    G-->|Sim|H[Retire seu cartão DE ]
+    H-->J[FIM]
+
+    For-->|dinheiro|Sel[Selecione o valor]
+    Sel-->ins[Insira o dinheiro na máquina]
+    ins-->inseriu{Inseriu todo o dinheiro?}
+    
+    inseriu-->|Nao|ins
+    inseriu-->|sim|Imp{imprimir}
+    Imp-->|sim|ImpSim[Imprime recibo]
+    Imp-->|Nao|RET
+    ImpSim-->RET[Retira o cartao]
+    RET-->J
 
 ```
 3.Recarga do Bilhete Único
-```
+```mermaid
 
 ```
 
