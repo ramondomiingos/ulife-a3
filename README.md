@@ -122,7 +122,7 @@ flowchart TD
 
 # Descrição das personas
 
-As imagens para as personas foram geradas aleatoriamente por inteligencia artificial e não existem,através do site: [https://this-person-does-not-exist.com/en](https://this-person-does-not-exist.com/)
+As imagens para as personas foram geradas aleatoriamente por inteligencia artificial e não existem,através do site: [https://this-person-does-not-exist.com/en](https://this-person-does-not-exist.com/). Na pasta `personas` existem as personas completas, segue nome e fotos de cada uma delas:
 
  <table>
     <tr>
