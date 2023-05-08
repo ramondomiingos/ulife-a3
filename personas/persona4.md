@@ -1,5 +1,6 @@
 # Nome: Joana Rocha
-<img src="persona4.png" width="100px;" alt=“Joana Rocha"/>
+
+<img src="persona4.png" width="100px;" alt="Joana Rocha"/>
 
 >”Virtude Sem caridade não passa de nome” Isaac Newton
 
@@ -115,9 +116,9 @@ Possui um smartphone cujo hardware não suporta tão bem as novas versões de ap
 </table>
 
 ## Marcas & Influência
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fnatelinha.uol.com.br%2Ffamosos%2Ftudo-sobre%2Fana-maria-braga&psig=AOvVaw23iNW9ZujWkNnqA09eV4SR&ust=1683632080438000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJD7xLPQ5f4CFQAAAAAdAAAAABAD' width= '100px' alt=‘Ana Maria Braga‘>
+<img src="https://imagem.natelinha.uol.com.br/tudo-sobre/ana_maria_braga_f62b0ebf1bc567fb70a907f0d14e1ed7307456b9_fb1bee214f124fb6daff1eca3fdf88ddad391a78.jpeg" width= "100px" alt="Ana Maria Braga">
 
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fgkpb.com.br%2F51854%2Fnovo-logo-o-boticario%2F&psig=AOvVaw1MmM-u_xwrq3mjsHtDU2A0&ust=1683632111221000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDMzsHQ5f4CFQAAAAAdAAAAABAD' width= '100px' alt=‘O Boticário>
+<img src="https://gkpb.com.br/wp-content/uploads/2020/08/novo-logo-o-boticario-2020-696x364.jpg" width= "100px" alt="O Boticário">
 
 ## Canais preferidos
 <table>
