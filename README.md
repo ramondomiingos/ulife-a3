@@ -203,6 +203,16 @@ Na pasta `cenarios` existem os cenários completos, segue os resumos:
 **Ação:** verificou o saldo no app e fez a recarga com o cartão de débito.<br/>
 **Avaliação:** Muito prático recarregar pelo app.<br/>
 
+
+## Cenário 4
+
+**Contexto:** Indo para o trabalho voluntário na quarta-feira a tarde.<br/>
+**Evento:** Entrando na estação de metrô.<br/>
+**Objeto:** Carregar o cartão e ir para o trabalho voluntário.<br/>
+**Plano:** Durante o caminho, antes da catraca, recarregar o cartão.<br/>
+**Ação:** Havia três pessoas na sua frente, mas deixou uma mulher grávida passar na sua frente.<br/>
+**Avaliação:** Demorou mais que o esperado e ficou transtornada, atrapalhando a utilização da máquina.<br/>
+<br/><br/>
 # Wireframe estático
 
 # Protótipo Interativo
