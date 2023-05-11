@@ -205,7 +205,7 @@ Na pasta `cenarios` existem os cenários completos, segue os resumos:
 
 
 ## Cenário 4
-
+**Ator:** [Persona 4 - Joana Rocha](../personas/persona4.md)<br/>
 **Contexto:** Indo para o trabalho voluntário na quarta-feira a tarde.<br/>
 **Evento:** Entrando na estação de metrô.<br/>
 **Objeto:** Carregar o cartão e ir para o trabalho voluntário.<br/>
