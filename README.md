@@ -231,11 +231,11 @@ Assista a apresentação clicando [aqui](http://teste.com) .
 	  		<img src="SUA FOTO.PNG" width="100px;"/>
 			<br />
 			<sub>
-			<b>Nome e Sobrenome </b>
+			<b>Ana Clara Araujo Barbosa Moraes </b>
 			</sub>
 		</a>
 		<sub>
-			<br/>RA:xxx
+			<br/>RA: 321220389
 		</sub>
 		<br />
 	</td>
@@ -244,11 +244,11 @@ Assista a apresentação clicando [aqui](http://teste.com) .
 	  		<img src="SUA FOTO.PNG" width="100px;"/>
 			<br />
 			<sub>
-			<b>Nome e Sobrenome </b> 
+			<b>Julia Fiamoncini </b> 
 			</sub>
 		</a>
 		<sub>
-			<br/>RA:xxx
+			<br/>RA:152010254
 		</sub>
 		<br />
 	</td>
@@ -257,11 +257,11 @@ Assista a apresentação clicando [aqui](http://teste.com) .
 	  		<img src="SUA FOTO.PNG" width="100px;"/>
 			<br />
 			<sub>
-			<b>Nome e Sobrenome </b>
+			<b>Kelvin Nascimento Muniz de Araújo </b>
 			</sub>
 		</a>
 		<sub>
-			<br/>RA:xxx
+			<br/>RA:125111261848
 		</sub>
 		<br />
 	</td>
@@ -270,11 +270,24 @@ Assista a apresentação clicando [aqui](http://teste.com) .
 	  		<img src="SUA FOTO.PNG" width="100px;"/>
 			<br />
 			<sub>
-			<b>Nome e Sobrenome </b>
+			<b>Luana Ramos Ferreira de Camargo </b>
 			</sub>
 		</a>
 		<sub>
-			<br/>RA:xxx
+			<br/>RA:8222243382
+		</sub>
+		<br />
+	</td>
+	<td align="center">
+	  	<a href="O LINK QUE VC QUISER">
+	  		<img src="SUA FOTO.PNG" width="100px;"/>
+			<br />
+			<sub>
+			<b> Ramon Leal Damasceno  </b>
+			</sub>
+		</a>
+		<sub>
+			<br/>RA:821233805
 		</sub>
 		<br />
 	</td>
