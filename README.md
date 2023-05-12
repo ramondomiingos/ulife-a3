@@ -166,6 +166,26 @@ As imagens para as personas foram geradas aleatoriamente por inteligencia artifi
 		</a>
 		<br />
 	</td>
+	<td align="center">
+	  	<a href="/personas/persona5.md">
+	  		<img src="personas/persona5.png" width="100px;" alt="João Paulo da Silva"/>
+			<br />
+			<sub>
+				<b>JJoão Paulo da Silva</b>
+			</sub>
+		</a>
+		<br />
+	</td>
+	<td align="center">
+	  	<a href="/personas/persona6.md">
+	  		<img src="personas/persona6.png" width="100px;" alt="Davi Silva "/>
+			<br />
+			<sub>
+				<b>Davi Silva </b>
+			</sub>
+		</a>
+		<br />
+	</td>
 	</tr> 
 </table>
 
