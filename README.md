@@ -232,7 +232,28 @@ Na pasta `cenarios` existem os cenários completos, segue os resumos:
 **Plano:** Durante o caminho, antes da catraca, recarregar o cartão.<br/>
 **Ação:** Havia três pessoas na sua frente, mas deixou uma mulher grávida passar na sua frente.<br/>
 **Avaliação:** Demorou mais que o esperado e ficou transtornada, atrapalhando a utilização da máquina.<br/>
+# Cenário 5
+
+
+**Ator:** [Persona 5 - João Paulo Silva](../personas/persona5.md)<br/>
+**Contexto:** Tentando chegar ao trabalho.<br/>
+**Evento:** Entrando na estação do metro para ir trabalhar.<br/>
+**Objeto:** Conseguir recarregar o bilhete.<br/>
+**Plano:** Recarregar o bilhete e seguir seu trajeto<br/>
+**Ação:** Chegou a maquina, com certas dificuldades conseguiu recarregar, porem ficou carregando sua tranasação infinitamente.<br/>
+**Avaliação:** Maquina pessima, não me deixou recarregar o bilhete.<br/>
+# Cenário 6
+
+**Ator:** [Persona 6 - Davi Silva ](../personas/persona6.md)<br/>
+**Contexto:** Tentando chegar ao trabalho.<br/>
+**Evento:** Pegando condução de transporte público.<br/>
+**Objeto:** Chegar ao trabalho.<br/>
+**Plano:** Recarregar o cartão pelo app<br/>
+**Ação:** Verificou o saldo no app e foi recarregar o cartão, porém como está com uma rotina puxada no trabalho, saiu de caso com pressa e esqueceu o cartão de débito, não conseguiu achar outra forma de carregar o bilhete, e teve que usar o dinheiro físico.<br/>
+**Avaliação:** Sistema ultrapassado, e pouco intuitivo, poucas opções para recarregar o bilhete
+.<br/>
 <br/><br/>
+
 # Wireframe estático
 
 # Protótipo Interativo
