@@ -261,6 +261,9 @@ Na pasta `cenarios` existem os cenários completos, segue os resumos:
  https://www.figma.com/file/tzKOYC3xbhGPdzaBmRWknv/Start?type=design&node-id=0%3A1&t=1QcHULbo7g96Y9LW-1
 
 # Protótipo Interativo
+ <img src="prototipos/animacao.gif" width="300px;" alt="animacao"/>
+
+
 https://www.figma.com/proto/tzKOYC3xbhGPdzaBmRWknv/Start?type=design&node-id=29-3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=29%3A3&show-proto-sidebar=1
 # Relatório analítico das heurísticas de Nielsen
 
