@@ -267,6 +267,7 @@ Na pasta `cenarios` existem os cenários completos, segue os resumos:
 https://www.figma.com/proto/tzKOYC3xbhGPdzaBmRWknv/Start?type=design&node-id=29-3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=29%3A3&show-proto-sidebar=1
 # Relatório analítico das heurísticas de Nielsen
 
+[Relatório](./Heurísticas de Nielsen para um Aplicativo de Ticket de Ônibus Urbano.pdf)
 # Implementação das telas do protótipo desenvolvido
 
 # Vídeo apresentando sua solução de redesign
