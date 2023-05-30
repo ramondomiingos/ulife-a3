@@ -256,7 +256,8 @@ Na pasta `cenarios` existem os cenários completos, segue os resumos:
 # prototipo de baixa fidelidade
  - qr-code-debito
  <img src="prototipos/qr-code-debito.png" width="300px;" alt="qr-code-debito"/>
-
+ - Fluxos
+ <img="prototipos/baixa-fideldiade.jpg" width="400px;" alt="baixa-fideldiade"/>
 # Wireframe estático
  <img src="prototipos/Print.png" width="300px;" alt="captura de tela"/>
 
