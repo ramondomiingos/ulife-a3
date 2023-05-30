@@ -253,6 +253,9 @@ Na pasta `cenarios` existem os cenários completos, segue os resumos:
 **Avaliação:** Sistema ultrapassado, e pouco intuitivo, poucas opções para recarregar o bilhete
 .<br/>
 <br/><br/>
+# prototipo de baixa fidelidade
+ - qr-code-debito
+ <img src="prototipos/qr-code-debito.png" width="300px;" alt="qr-code-debito"/>
 
 # Wireframe estático
  <img src="prototipos/Print.png" width="300px;" alt="captura de tela"/>
