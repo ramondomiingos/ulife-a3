@@ -1,0 +1,31 @@
+div.barraImprimir {
+    height: 100px;
+    width:1024px;
+    position: absolute;
+    background: #3FB2A9;
+    border-radius: 5px;
+    bottom: 98px;
+} 
+#circleImprimir {
+    width: 90px;
+    height: 90px;
+    background: #D9D9D9;
+    -moz-border-radius: 90px;
+    -webkit-border-radius: 90px;
+    border-radius: 90px;
+    margin-top: 5px;
+}
+
+#circleImprimir p {
+    margin:0px 0px   ;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 82px;
+    letter-spacing: 0.02em;
+    color: #2B3C36;
+    display: flex;
+
+    
+}
