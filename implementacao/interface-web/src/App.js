@@ -5,7 +5,7 @@ import Home from './Componentes/Home/Home';
 import Config from './Componentes/Config/Config';
 import { Routes, Route, useLocation } from 'react-router-dom';
 import unitario1 from './Componentes/Unitario/unitario1';
-
+import Debito from './Componentes/Debito/Debito';
 function App() {
 
  
@@ -19,6 +19,7 @@ function App() {
       <Routes>
        <Route path="/" element={ <Home/>} />
        <Route path="/unitario1" Component={unitario1} />
+       <Route path='/debito' Component={Debito} /> 
     </Routes>
        
       </div>
