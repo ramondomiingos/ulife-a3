@@ -1,0 +1,14 @@
+div.barra {
+  
+    height: 176px;
+    left: 0px;
+    top: 274px;
+    background: #3FB2A9;
+    border-radius: 5px;
+} 
+#iconAcation {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: space-around;
+
+}
