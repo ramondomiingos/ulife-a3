@@ -2,23 +2,36 @@ import React, { useState } from 'react';
 import './App.css';
 import Context from './Componentes/Context/Context';
 import Home from './Componentes/Home/Home';
-import Config from './Config/Config';
+import Config from './Componentes/Config/Config';
+import { Routes, Route, useLocation } from 'react-router-dom';
+import unitario1 from './Componentes/Unitario/unitario1';
 
 function App() {
-  const [itensConfig, setItensConfig] = useState([ 'pix','debito', 'bilhete']);
-  return (
-   
-    <div className="App">
-      <header className="App-header">
-         <Context.Provider value={[itensConfig, setItensConfig]}>
-        <div className="screen-terminal">
-          <Home/>
-        </div>
-        <Config/>
-       </Context.Provider>
-      </header>
+
+ 
+    const location = useLocation();
+    const [itensConfig, setItensConfig] = useState({});
+
+    return ( <div className="App">
+    <header className="App-header">
+       <Context.Provider value={[itensConfig, setItensConfig]}>
+      <div className="screen-terminal">
+      <Routes>
+       <Route path="/" element={ <Home/>} />
+       <Route path="/unitario1" Component={unitario1} />
+    </Routes>
+       
+      </div>
+      { ( location.pathname === '/' || location.pathname === '/home' ) &&  <Config/>}
      
+     </Context.Provider>
+    </header>
     </div>
+   
+
+ 
+   
+   
 
   );
 }

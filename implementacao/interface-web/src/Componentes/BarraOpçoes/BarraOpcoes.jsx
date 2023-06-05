@@ -9,6 +9,7 @@ import ticket from '../../imagens/ticket.png'
 import CartaoCredito from '../../imagens/cartao-de-credito 1.png'
 import Context from '../Context/Context';
 import { useContext } from 'react';
+import { Link } from 'react-router-dom';
 
 function BarraOpcoes() {
     const [itens, setItens] = useContext(Context);
@@ -18,6 +19,7 @@ function BarraOpcoes() {
           <Row>
             {itens.pix && (
               <Col align="center">
+                <Link to={ 'unitario1'}>
                 <div id="circle">
                   <img
                     src={qrCode}
@@ -28,6 +30,7 @@ function BarraOpcoes() {
                   />
                   <p>Pix</p>
                 </div>
+                </Link>
               </Col>
             )}
             {itens.debito && (

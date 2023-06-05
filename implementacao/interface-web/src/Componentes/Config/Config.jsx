@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import Context from '../Componentes/Context/Context';
+import Context from '../Context/Context';
 import Form from 'react-bootstrap/Form';
 import { useForm } from 'react-hook-form';
 import Container from 'react-bootstrap/Container';
