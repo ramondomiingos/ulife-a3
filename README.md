@@ -277,7 +277,7 @@ https://www.figma.com/proto/tzKOYC3xbhGPdzaBmRWknv/Start?type=design&node-id=29-
 
 # Vídeo apresentando sua solução de redesign
 
-Assista a apresentação clicando [aqui](http://teste.com) .
+Assista a apresentação clicando [aqui para ir para o Youtube](https://youtu.be/4B2kOAWVLz0) .
 
 
 
