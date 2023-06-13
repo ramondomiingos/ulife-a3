@@ -273,7 +273,8 @@ https://www.figma.com/proto/tzKOYC3xbhGPdzaBmRWknv/Start?type=design&node-id=29-
 
 [Relatório](./Heurísticas%20de%20Nielsen%20para%20um%20Aplicativo%20de%20Ticket%20de%20Ônibus%20Urbano.pdf)
 # Implementação das telas do protótipo desenvolvido
-<img src="implementacao/ApresentacaoimplementacaoWeb.gif" width="300px" alt="Apresentacao implementacao Web"> 
+<img src="implementacao/demoWeb.gif" width="300px" alt="Apresentacao implementacao Web"/> 
+
 # Vídeo apresentando sua solução de redesign
 
 Assista a apresentação clicando [aqui para ir para o Youtube](https://youtu.be/4B2kOAWVLz0) .
