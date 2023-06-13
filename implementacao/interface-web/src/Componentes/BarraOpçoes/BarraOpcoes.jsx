@@ -18,8 +18,8 @@ function BarraOpcoes() {
         <Container>
           <Row>
             {itens.pix && (
-              <Col align="center">
-                <Link to={ 'unitario1'}>
+              <Col align="center" className='itens'>
+                <Link to={ 'unitario1'} style={{ textDecoration: 'none' }}>
                 <div id="circle">
                   <img
                     src={qrCode}
@@ -34,7 +34,8 @@ function BarraOpcoes() {
               </Col>
             )}
             {itens.debito && (
-              <Col align="center">
+              <Col align="center" className='itens'>
+                 <Link to={ 'unitario1'} style={{ textDecoration: 'none' }}>
                 <div id="circle">
                   <img
                     src={CartaoCredito}
@@ -45,10 +46,11 @@ function BarraOpcoes() {
                   />
                   <p>Débito</p>
                 </div>
+                </Link>
               </Col>
             )}
             {itens.bilhete && (
-              <Col align="center">
+              <Col align="center" className='itens'>
                 <div id="circle">
                   <img
                     src={ticket}
