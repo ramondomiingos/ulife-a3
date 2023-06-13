@@ -7,7 +7,6 @@
 Projeto desenvolvido para a ATIVIDADE 3 da disciplina Usabilidade, Desenvolvimento Web, Mobile e Jogos.
 
 <h4 align="center"> 
-	🚧  Em desenvolvimento . . .
 </h4>
 
 # Índice/Sumário
@@ -274,7 +273,7 @@ https://www.figma.com/proto/tzKOYC3xbhGPdzaBmRWknv/Start?type=design&node-id=29-
 
 [Relatório](./Heurísticas%20de%20Nielsen%20para%20um%20Aplicativo%20de%20Ticket%20de%20Ônibus%20Urbano.pdf)
 # Implementação das telas do protótipo desenvolvido
-
+<img src="implementacao/ApresentacaoimplementacaoWeb.gif" width="300px" alt="Apresentacao implementacao Web"> 
 # Vídeo apresentando sua solução de redesign
 
 Assista a apresentação clicando [aqui para ir para o Youtube](https://youtu.be/4B2kOAWVLz0) .
